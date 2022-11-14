@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+header {
+  img {
+    width: 40%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+  }
+}
+
+.img__musician {
+  width: 100%;
+  height: 200px;
+}
+
+a {
+  color: #5b166d;
+  text-decoration: none;
+}
+
+.MuiButton-textPrimary {
+  color: #5b166d !important;
+}
+
+.css-1dunj1k-MuiSlider-root .MuiSlider-valueLabel {
+  background-color: #5b166d !important;
+}
